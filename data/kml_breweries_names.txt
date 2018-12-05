@@ -1,0 +1,105 @@
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      <name>4th Meridian Brewing Co</name>
+      <name>88 Brewing Company</name>
+      <name><![CDATA[Cold Lake Brewing & Distilling Company]]></name>
+      <name><![CDATA[Elite Brewing & Cidery]]></name>
+      <name><![CDATA[Hell's Basement Brewery]]></name>
+      <name><![CDATA[Last Best Brewing & Distilling]]></name>
+      <name><![CDATA[Ol' Beautiful Brewing Co.]]></name>
+      <name><![CDATA[Origin Malting & Brewing]]></name>
+      <name><![CDATA[Paddy's Barbecue & Brewery]]></name>
+      <name><![CDATA[The Dandy Brewing Company & Tasting Room]]></name>
+      <name><![CDATA[Trolley 5 Restaurant & Brewery]]></name>
+      <name>Alley Kat Brewing Company</name>
+      <name>Analog Brewing Company</name>
+      <name>Annex Ale Project Ltd.</name>
+      <name>Banded Peak Brewing</name>
+      <name>Banff Ave Brewing Co.</name>
+      <name>Battle River Brewery</name>
+      <name>Beer Factory</name>
+      <name>Belly Hop Brewing Company</name>
+      <name>Bench Creek Brewing</name>
+      <name>Bent Stick Brewing</name>
+      <name>Big Rock Brewery</name>
+      <name>Blind Enthusiasm Brewing Company</name>
+      <name>Blindman Brewing</name>
+      <name>Boiling Oar Brewing Company</name>
+      <name>Born Colorado Brewing</name>
+      <name>Bow River Brewing</name>
+      <name>Brauerei Fahr </name>
+      <name>Brewsters</name>
+      <name>Cabin Brewing Company</name>
+      <name>Canmore Brewing Company</name>
+      <name>Caravel Craft Brewery</name>
+      <name>Citizen Brewing Company</name>
+      <name>Cold Garden Beverage Company</name>
+      <name>Common Crown Brewing Co.</name>
+      <name>Coulee Brew Company</name>
+      <name>Dark Woods Brewery</name>
+      <name>Dog Island Brewing</name>
+      <name>Dunvegan Brewing Company</name>
+      <name>Endeavour Brewing Company</name>
+      <name>Fat Unicorn Brewery</name>
+      <name>Fitzsimmons Brewing Company</name>
+      <name>Folding Mountain Brewing</name>
+      <name>GP Brewing Co.</name>
+      <name>Good Mood Brewery</name>
+      <name>Grain Bin Brewing Company</name>
+      <name>Grizzly Paw Brewing Company Brewery</name>
+      <name>Grizzly Paw Brewing Company</name>
+      <name>Half Hitch Brewing Company</name>
+      <name>Hamill Brothers Brewing</name>
+      <name>Hard Knox Brewery</name>
+      <name>Hawk Tail Brewery</name>
+      <name>High Line Brewing</name>
+      <name>High River Brewing Company Ltd</name>
+      <name>Inner City Brewing Company</name>
+      <name>Jasper Brewing Company</name>
+      <name>King of Springs Brewery</name>
+      <name>Labatt Breweries Alberta</name>
+      <name>Lakeland Brewing Company</name>
+      <name>Last Spike Brewery</name>
+      <name>Legend 7 Brewing</name>
+      <name>Marda Loop Brewing Company Inc.</name>
+      <name>Medicine Hat Brewing Company</name>
+      <name>Mill Street Brewpub</name>
+      <name>Minhas Micro Brewery - Calgary</name>
+      <name>New Level Brewing</name>
+      <name>Norsemen Inn</name>
+      <name>Oldman River Brewing</name>
+      <name>Olds College Brewery</name>
+      <name>Omen Brewing</name>
+      <name>Peace River Brewing</name>
+      <name>Piston Broke Brewing</name>
+      <name>Prairie Brewing Company</name>
+      <name>Prairie Dog Brewing</name>
+      <name>Railyard Brewing</name>
+      <name>Red Bison Brewery</name>
+      <name>Ribstone Creek Brewery</name>
+      <name>Rocky View Brewing Company</name>
+      <name>Rural Routes Brewing Company</name>
+      <name>Sawback Brewing Company</name>
+      <name>Sea Change Brewing Co</name>
+      <name>Siding 14 Brewing Company</name>
+      <name>Situation Brewing</name>
+      <name>Snake Lake Brewing Company</name>
+      <name>Something Brewing Company</name>
+      <name>Specific Gravity (Brewsters)</name>
+      <name>Stronghold Brewing Co.</name>
+      <name>The Dandy Brewing Company</name>
+      <name>The Monolith (by Blind Enthusiasm)</name>
+      <name>The O.T. Brewing Company</name>
+      <name>Theoretically Brewing Company</name>
+      <name>Tool Shed Brewing Company</name>
+      <name>Town Square Brewing Co.</name>
+      <name>Township 24 Brewery</name>
+      <name>Travois Ale Work Ltd</name>
+      <name>Troubled Monk Brewery</name>
+      <name>Two Sergeants Taphouse</name>
+      <name>Undercurrent Brewing Ltd</name>
+      <name>Village Brewery</name>
+      <name>Wild Rose Brewery</name>
+      <name>Wood Buffalo Brewing Company</name>
+      <name>Yellowhead Brewery</name>
+      <name>Zero Issue Brewing</name>
+    <name>Breweries</name>
